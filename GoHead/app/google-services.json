@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "207982150957",
+    "firebase_url": "https://gohead-92328.firebaseio.com",
+    "project_id": "gohead-92328",
+    "storage_bucket": "gohead-92328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207982150957:android:a512ee4370a907ec",
+        "android_client_info": {
+          "package_name": "com.example.divyapanwar.gohead"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207982150957-l70pk7p75q69a2j7ftgdis9vpp43ps1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.divyapanwar.gohead",
+            "certificate_hash": "7bbbc106e774f741f5ae76df2f534463e001d8a3"
+          }
+        },
+        {
+          "client_id": "207982150957-ltcd60vbjureqg1smk2flfrvbum4lco5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASlj-pEt3y9XQrOiFMlzjKcwgYZVH3moI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207982150957-ltcd60vbjureqg1smk2flfrvbum4lco5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

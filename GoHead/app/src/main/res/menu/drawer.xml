@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dashboard"
+        android:title="dashboard"></item>
+    <item
+        android:id="@+id/utsav"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="utsav"></item>
+    <item
+        android:id="@+id/student"
+        android:title="Student Corner"></item>
+    <item
+        android:id="@+id/department"
+        android:title="department"></item>
+    <item
+        android:id="@+id/logout"
+        android:title="logout"></item>
+
+</menu>
